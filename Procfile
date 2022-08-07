@@ -1,0 +1,1 @@
+worker: python bot_practice_bot.py
